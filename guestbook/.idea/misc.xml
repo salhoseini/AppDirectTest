@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="JalapenoDev">
+    <option name="mHost" value="localhost" />
+    <option name="mPort" value="8081" />
+    <option name="mUsername" value="root" />
+    <option name="mPassword" value="Mitertan19" />
+    <option name="mNamespace" value="USER" />
+    <option name="mDefaultAccessTypeString" value="properties" />
+    <option name="mDefaultAccessLevelString" value="public" />
+    <option name="mPopulateInstances" value="10" />
+    <option name="mRelationPopulateFactor" value="5" />
+    <option name="mPathToConfig" />
+    <option name="mDeleteOldSchema" value="false" />
+    <option name="mRebuildIndices" value="true" />
+    <option name="mDollarReplacement" value="D" />
+    <option name="mUnderscoreReplacement" value="U" />
+    <option name="mMetadataSourceString" value="annotations" />
+    <option name="mMaxStringLength" value="128" />
+    <option name="mMaxStringLengthInKey" value="64" />
+    <option name="mClassesInShema">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="mClassesInDatabase">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="mIntrospectionExclusions">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="mJPAMode" value="true" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>
